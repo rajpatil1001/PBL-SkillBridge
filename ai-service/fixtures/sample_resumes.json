@@ -1,0 +1,12 @@
+[
+  {
+    "id": "resume_alex_cloud",
+    "target_role": "Cloud DevOps Engineer",
+    "text": "Alex Morgan - DevOps & Cloud Infrastructure Engineer.\n\nTECHNICAL SKILLS\nDocker, Kubernetes, AWS, Terraform, Linux, CI/CD, GitHub Actions, Python, Shell Scripting, Git.\n\nEXPERIENCE\nCloud Infrastructure Engineer at Orbit Labs (2023 - Present)\n- Managed multi-region AWS infrastructure including EC2, S3, RDS, and VPC peering.\n- Built automated CI/CD pipelines deploying containerized microservices to Kubernetes clusters with Helm.\n- Implemented zero-downtime blue/green deployment strategies using Docker and Nginx reverse proxies.\n\nPROJECTS\nKubernetes Cost Optimizer\n- Developed Python tool monitoring idle pods and rightsizing node groups across AWS EKS."
+  },
+  {
+    "id": "resume_priya_fullstack",
+    "target_role": "Full Stack Web Developer",
+    "text": "Priya Sharma - Full Stack Developer\n\nSKILLS\nJavaScript, TypeScript, React, Next.js, Node.js, Express, PostgreSQL, MongoDB, REST API, Jest.\n\nEXPERIENCE\nSoftware Engineer at DevStream (2022 - Present)\n- Designed and implemented customer-facing UI components using React 18 and Tailwind CSS.\n- Created secure RESTful microservices in Node.js and Express with JWT authentication.\n- Managed transactional data in PostgreSQL and document caches in Redis."
+  }
+]

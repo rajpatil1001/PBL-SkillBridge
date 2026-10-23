@@ -1,0 +1,300 @@
+{
+  "skills": [
+    {
+      "id": "python",
+      "canonical_name": "Python",
+      "category": "programming_language",
+      "aliases": ["python", "python3", "py", "cpython"],
+      "description": "High-level, interpreted programming language widely used for backend, AI/ML, and automation.",
+      "related_skills": ["fastapi", "django", "flask", "pytorch", "pandas"]
+    },
+    {
+      "id": "javascript",
+      "canonical_name": "JavaScript",
+      "category": "programming_language",
+      "aliases": ["javascript", "js", "ecmascript", "es6", "es2020"],
+      "description": "Dynamic scripting language for web client and server-side execution.",
+      "related_skills": ["typescript", "node_js", "react", "express"]
+    },
+    {
+      "id": "typescript",
+      "canonical_name": "TypeScript",
+      "category": "programming_language",
+      "aliases": ["typescript", "ts"],
+      "description": "Typed superset of JavaScript adding static type definitions.",
+      "related_skills": ["javascript", "react", "node_js", "express", "angular"]
+    },
+    {
+      "id": "java",
+      "canonical_name": "Java",
+      "category": "programming_language",
+      "aliases": ["java", "jdk", "jvm", "java 17", "java 21"],
+      "description": "Object-oriented, class-based programming language commonly used in enterprise systems.",
+      "related_skills": ["spring_boot", "kotlin", "maven"]
+    },
+    {
+      "id": "cpp",
+      "canonical_name": "C++",
+      "category": "programming_language",
+      "aliases": ["c++", "cpp", "cplusplus"],
+      "description": "High-performance systems programming language with OOP and low-level memory control.",
+      "related_skills": ["c", "rust", "data_structures"]
+    },
+    {
+      "id": "csharp",
+      "canonical_name": "C#",
+      "category": "programming_language",
+      "aliases": ["c#", "csharp", "c-sharp", ".net"],
+      "description": "Modern object-oriented language developed by Microsoft for the .NET runtime.",
+      "related_skills": ["aspnet", "dotnet"]
+    },
+    {
+      "id": "go",
+      "canonical_name": "Go",
+      "category": "programming_language",
+      "aliases": ["go", "golang"],
+      "description": "Statically typed, compiled language designed at Google for concurrency and cloud services.",
+      "related_skills": ["docker", "kubernetes", "microservices"]
+    },
+    {
+      "id": "rust",
+      "canonical_name": "Rust",
+      "category": "programming_language",
+      "aliases": ["rust", "rustlang"],
+      "description": "Memory-safe systems language without garbage collection.",
+      "related_skills": ["cpp", "webassembly"]
+    },
+    {
+      "id": "sql",
+      "canonical_name": "SQL",
+      "category": "database",
+      "aliases": ["sql", "structured query language", "ansi sql"],
+      "description": "Domain-specific language for managing and querying relational databases.",
+      "related_skills": ["postgresql", "mysql", "database_design"]
+    },
+    {
+      "id": "fastapi",
+      "canonical_name": "FastAPI",
+      "category": "framework",
+      "aliases": ["fastapi", "fast-api", "fast api"],
+      "description": "High-performance Python web framework based on Starlette and Pydantic.",
+      "related_skills": ["python", "pydantic", "uvicorn", "rest_api"]
+    },
+    {
+      "id": "django",
+      "canonical_name": "Django",
+      "category": "framework",
+      "aliases": ["django", "django rest framework", "drf"],
+      "description": "High-level Python web framework encouraging rapid development and clean design.",
+      "related_skills": ["python", "postgresql", "rest_api"]
+    },
+    {
+      "id": "flask",
+      "canonical_name": "Flask",
+      "category": "framework",
+      "aliases": ["flask", "flask-restful"],
+      "description": "Lightweight WSGI Python microframework.",
+      "related_skills": ["python", "jinja2", "rest_api"]
+    },
+    {
+      "id": "react",
+      "canonical_name": "React",
+      "category": "framework",
+      "aliases": ["react", "react.js", "reactjs", "react native"],
+      "description": "Component-based declarative JavaScript UI library developed by Meta.",
+      "related_skills": ["javascript", "typescript", "next_js", "redux"]
+    },
+    {
+      "id": "next_js",
+      "canonical_name": "Next.js",
+      "category": "framework",
+      "aliases": ["next.js", "nextjs", "next"],
+      "description": "React framework for server-side rendering, static site generation, and full-stack web applications.",
+      "related_skills": ["react", "typescript", "node_js"]
+    },
+    {
+      "id": "node_js",
+      "canonical_name": "Node.js",
+      "category": "framework",
+      "aliases": ["node.js", "nodejs", "node"],
+      "description": "Asynchronous event-driven JavaScript runtime environment.",
+      "related_skills": ["express", "javascript", "typescript", "npm"]
+    },
+    {
+      "id": "express",
+      "canonical_name": "Express.js",
+      "category": "framework",
+      "aliases": ["express", "express.js", "expressjs"],
+      "description": "Minimalist web framework for Node.js.",
+      "related_skills": ["node_js", "javascript", "rest_api"]
+    },
+    {
+      "id": "spring_boot",
+      "canonical_name": "Spring Boot",
+      "category": "framework",
+      "aliases": ["spring boot", "springboot", "spring framework", "spring"],
+      "description": "Convention-over-configuration Java framework for microservices.",
+      "related_skills": ["java", "microservices", "hibernate"]
+    },
+    {
+      "id": "postgresql",
+      "canonical_name": "PostgreSQL",
+      "category": "database",
+      "aliases": ["postgresql", "postgres", "pgsql", "postgre sql"],
+      "description": "Powerful, open source object-relational database system with ACID compliance.",
+      "related_skills": ["sql", "database_design", "redis"]
+    },
+    {
+      "id": "mongodb",
+      "canonical_name": "MongoDB",
+      "category": "database",
+      "aliases": ["mongodb", "mongo", "nosql"],
+      "description": "Document-oriented NoSQL database storing JSON-like documents.",
+      "related_skills": ["express", "node_js", "database_design"]
+    },
+    {
+      "id": "redis",
+      "canonical_name": "Redis",
+      "category": "database",
+      "aliases": ["redis", "in-memory database", "redis-cache"],
+      "description": "In-memory data structure store used as a database, cache, streaming engine, and message broker.",
+      "related_skills": ["postgresql", "caching", "system_design"]
+    },
+    {
+      "id": "docker",
+      "canonical_name": "Docker",
+      "category": "cloud_devops",
+      "aliases": ["docker", "dockerfile", "docker-compose", "containerization"],
+      "description": "Platform for developing, shipping, and running applications in isolated containers.",
+      "related_skills": ["kubernetes", "linux", "ci_cd"]
+    },
+    {
+      "id": "kubernetes",
+      "canonical_name": "Kubernetes",
+      "category": "cloud_devops",
+      "aliases": ["kubernetes", "k8s"],
+      "description": "Container orchestration system for automating deployment, scaling, and management.",
+      "related_skills": ["docker", "cloud_devops", "helm"]
+    },
+    {
+      "id": "aws",
+      "canonical_name": "Amazon Web Services (AWS)",
+      "category": "cloud_devops",
+      "aliases": ["aws", "amazon web services", "ec2", "s3", "lambda", "aws cloud"],
+      "description": "Comprehensive cloud computing platform offering compute, storage, and networking services.",
+      "related_skills": ["cloud_devops", "docker", "terraform"]
+    },
+    {
+      "id": "ci_cd",
+      "canonical_name": "CI/CD",
+      "category": "cloud_devops",
+      "aliases": ["ci/cd", "ci-cd", "continuous integration", "continuous deployment", "github actions", "gitlab ci", "jenkins"],
+      "description": "Automated pipelines for build, test, and software release delivery.",
+      "related_skills": ["git", "docker", "testing_qa"]
+    },
+    {
+      "id": "git",
+      "canonical_name": "Git",
+      "category": "tools",
+      "aliases": ["git", "github", "gitlab", "version control", "vcs"],
+      "description": "Distributed version control system for tracking changes in source code.",
+      "related_skills": ["ci_cd", "code_review"]
+    },
+    {
+      "id": "machine_learning",
+      "canonical_name": "Machine Learning",
+      "category": "ai_ml",
+      "aliases": ["machine learning", "ml", "supervised learning", "unsupervised learning"],
+      "description": "Study of algorithms that learn patterns from data to make predictions or decisions.",
+      "related_skills": ["python", "scikit_learn", "deep_learning", "data_science"]
+    },
+    {
+      "id": "deep_learning",
+      "canonical_name": "Deep Learning",
+      "category": "ai_ml",
+      "aliases": ["deep learning", "neural networks", "dl", "ann", "cnn", "rnn"],
+      "description": "Subfield of ML based on artificial neural networks with multiple layers.",
+      "related_skills": ["pytorch", "tensorflow", "machine_learning"]
+    },
+    {
+      "id": "pytorch",
+      "canonical_name": "PyTorch",
+      "category": "ai_ml",
+      "aliases": ["pytorch", "torch"],
+      "description": "Tensors and dynamic neural networks in Python with GPU acceleration.",
+      "related_skills": ["python", "deep_learning", "machine_learning"]
+    },
+    {
+      "id": "tensorflow",
+      "canonical_name": "TensorFlow",
+      "category": "ai_ml",
+      "aliases": ["tensorflow", "tf", "keras"],
+      "description": "End-to-end open source platform for machine learning developed by Google.",
+      "related_skills": ["python", "deep_learning", "machine_learning"]
+    },
+    {
+      "id": "nlp",
+      "canonical_name": "Natural Language Processing (NLP)",
+      "category": "ai_ml",
+      "aliases": ["nlp", "natural language processing", "text mining", "spacy", "hugging face", "transformers"],
+      "description": "Techniques for computational processing and understanding of human language.",
+      "related_skills": ["python", "machine_learning", "llm"]
+    },
+    {
+      "id": "llm",
+      "canonical_name": "Large Language Models (LLM)",
+      "category": "ai_ml",
+      "aliases": ["llm", "large language models", "prompt engineering", "langchain", "rag", "fine-tuning"],
+      "description": "Generative transformer models and retrieval-augmented generation architectures.",
+      "related_skills": ["nlp", "python", "vector_databases"]
+    },
+    {
+      "id": "rest_api",
+      "canonical_name": "RESTful API Design",
+      "category": "web_technology",
+      "aliases": ["rest", "restful", "rest api", "rest apis", "restful api", "http apis"],
+      "description": "Architectural style for designing networked applications over standard HTTP.",
+      "related_skills": ["fastapi", "express", "microservices"]
+    },
+    {
+      "id": "graphql",
+      "canonical_name": "GraphQL",
+      "category": "web_technology",
+      "aliases": ["graphql", "gql", "apollo"],
+      "description": "Query language for APIs and runtime for fulfilling queries with existing data.",
+      "related_skills": ["rest_api", "node_js", "react"]
+    },
+    {
+      "id": "microservices",
+      "canonical_name": "Microservices Architecture",
+      "category": "web_technology",
+      "aliases": ["microservices", "microservice", "distributed systems", "service-oriented architecture"],
+      "description": "Architectural approach where applications are arranged as loosely coupled services.",
+      "related_skills": ["docker", "kubernetes", "rest_api", "system_design"]
+    },
+    {
+      "id": "testing_qa",
+      "canonical_name": "Testing & QA",
+      "category": "testing_qa",
+      "aliases": ["testing", "unit testing", "integration testing", "pytest", "jest", "tdd", "test driven development"],
+      "description": "Software verification methodologies and automated testing suites.",
+      "related_skills": ["python", "javascript", "ci_cd"]
+    },
+    {
+      "id": "agile",
+      "canonical_name": "Agile & Scrum",
+      "category": "methodology",
+      "aliases": ["agile", "scrum", "sprints", "kanban", "standup"],
+      "description": "Iterative project management and software development methodology.",
+      "related_skills": ["git", "code_review"]
+    },
+    {
+      "id": "problem_solving",
+      "canonical_name": "Problem Solving",
+      "category": "soft_skill",
+      "aliases": ["problem solving", "analytical thinking", "critical thinking", "troubleshooting"],
+      "description": "Ability to analyze complex challenges and formulate structured solutions.",
+      "related_skills": ["data_structures", "algorithm_design"]
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+[
+  {
+    "role_id": "job_backend_fastapi",
+    "role_title": "Backend Microservices Engineer",
+    "department": "Platform Engineering",
+    "minimum_overall_threshold": 65.0,
+    "required_skills": [
+      {
+        "skill_id": "python",
+        "minimum_score": 80.0,
+        "importance": "critical"
+      },
+      {
+        "skill_id": "fastapi",
+        "minimum_score": 75.0,
+        "importance": "critical"
+      },
+      {
+        "skill_id": "postgresql",
+        "minimum_score": 70.0,
+        "importance": "important"
+      },
+      {
+        "skill_id": "docker",
+        "minimum_score": 60.0,
+        "importance": "important"
+      },
+      {
+        "skill_id": "redis",
+        "minimum_score": 55.0,
+        "importance": "nice_to_have"
+      }
+    ]
+  },
+  {
+    "role_id": "job_frontend_react",
+    "role_title": "Frontend React Specialist",
+    "department": "User Experience",
+    "minimum_overall_threshold": 60.0,
+    "required_skills": [
+      {
+        "skill_id": "react",
+        "minimum_score": 80.0,
+        "importance": "critical"
+      },
+      {
+        "skill_id": "typescript",
+        "minimum_score": 75.0,
+        "importance": "critical"
+      },
+      {
+        "skill_id": "javascript",
+        "minimum_score": 70.0,
+        "importance": "important"
+      },
+      {
+        "skill_id": "rest_api",
+        "minimum_score": 60.0,
+        "importance": "nice_to_have"
+      }
+    ]
+  }
+]

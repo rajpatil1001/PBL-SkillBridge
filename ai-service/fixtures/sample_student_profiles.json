@@ -1,0 +1,70 @@
+[
+  {
+    "student_id": "stud_001_backend",
+    "intended_role": "Backend Microservices Engineer",
+    "evidence_items": [
+      {
+        "skill_id": "python",
+        "source_type": "verified_assessment",
+        "verification_status": "verified",
+        "raw_score": 92.0,
+        "days_ago": 25,
+        "title": "Advanced Python & Asynchronous Programming Lab"
+      },
+      {
+        "skill_id": "python",
+        "source_type": "capstone_project",
+        "verification_status": "verified",
+        "raw_score": 88.0,
+        "days_ago": 60,
+        "title": "Distributed Task Engine Capstone"
+      },
+      {
+        "skill_id": "fastapi",
+        "source_type": "github_repository",
+        "verification_status": "verified",
+        "raw_score": 84.0,
+        "days_ago": 30,
+        "title": "FastAPI eCommerce Microservices Repo"
+      },
+      {
+        "skill_id": "postgresql",
+        "source_type": "course_certificate",
+        "verification_status": "verified",
+        "raw_score": 78.0,
+        "days_ago": 45,
+        "title": "Relational Modeling with Postgres"
+      },
+      {
+        "skill_id": "docker",
+        "source_type": "github_repository",
+        "verification_status": "unverified",
+        "raw_score": 68.0,
+        "days_ago": 15,
+        "title": "Docker Compose Multi-Stage Builds"
+      }
+    ]
+  },
+  {
+    "student_id": "stud_002_beginner",
+    "intended_role": "Junior Backend Developer",
+    "evidence_items": [
+      {
+        "skill_id": "python",
+        "source_type": "course_certificate",
+        "verification_status": "unverified",
+        "raw_score": 65.0,
+        "days_ago": 90,
+        "title": "Introduction to Python"
+      },
+      {
+        "skill_id": "sql",
+        "source_type": "self_reported",
+        "verification_status": "unverified",
+        "raw_score": 50.0,
+        "days_ago": 120,
+        "title": "Basic SQL Queries"
+      }
+    ]
+  }
+]

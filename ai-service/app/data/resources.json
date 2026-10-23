@@ -1,0 +1,160 @@
+{
+  "resources": [
+    {
+      "resource_id": "res_py_01",
+      "skill_id": "python",
+      "title": "Python Core & Object-Oriented Programming Mastery",
+      "provider": "SkillBridge Curated Baseline",
+      "resource_type": "course",
+      "difficulty": "intermediate",
+      "estimated_hours": 20.0,
+      "url": "https://docs.python.org/3/tutorial/",
+      "is_sample": true,
+      "description": "Comprehensive grounding in Python data structures, decorators, generators, and async programming."
+    },
+    {
+      "resource_id": "res_fastapi_01",
+      "skill_id": "fastapi",
+      "title": "Building Production Microservices with FastAPI",
+      "provider": "SkillBridge Hands-On Lab",
+      "resource_type": "hands_on_lab",
+      "difficulty": "intermediate",
+      "estimated_hours": 14.0,
+      "url": "https://fastapi.tiangolo.com/tutorial/",
+      "is_sample": true,
+      "description": "Construct high-throughput asynchronous REST APIs with Pydantic validation and JWT authentication."
+    },
+    {
+      "resource_id": "res_react_01",
+      "skill_id": "react",
+      "title": "Modern React 19: Hooks, State Machines & Server Components",
+      "provider": "SkillBridge Curated Baseline",
+      "resource_type": "course",
+      "difficulty": "intermediate",
+      "estimated_hours": 24.0,
+      "url": "https://react.dev/learn",
+      "is_sample": true,
+      "description": "Component architecture, performance optimization, context API, and server actions."
+    },
+    {
+      "resource_id": "res_docker_01",
+      "skill_id": "docker",
+      "title": "Docker & Containerization for Cloud Applications",
+      "provider": "SkillBridge Interactive Sandbox",
+      "resource_type": "hands_on_lab",
+      "difficulty": "beginner",
+      "estimated_hours": 10.0,
+      "url": "https://docs.docker.com/get-started/",
+      "is_sample": true,
+      "description": "Multi-stage Dockerfiles, volume binding, compose orchestration, and container security."
+    },
+    {
+      "resource_id": "res_k8s_01",
+      "skill_id": "kubernetes",
+      "title": "Kubernetes Cluster Architecture & Helm Deployments",
+      "provider": "SkillBridge Cloud Academy",
+      "resource_type": "course",
+      "difficulty": "advanced",
+      "estimated_hours": 30.0,
+      "url": "https://kubernetes.io/docs/tutorials/",
+      "is_sample": true,
+      "description": "Deployments, StatefulSets, Services, Ingress controllers, and auto-scaling pods."
+    },
+    {
+      "resource_id": "res_pg_01",
+      "skill_id": "postgresql",
+      "title": "PostgreSQL Performance Tuning & Relational Modeling",
+      "provider": "SkillBridge Database Track",
+      "resource_type": "project_tutorial",
+      "difficulty": "intermediate",
+      "estimated_hours": 16.0,
+      "url": "https://www.postgresql.org/docs/",
+      "is_sample": true,
+      "description": "ACID guarantees, index optimization (B-tree, GIN), query plan analysis with EXPLAIN ANALYZE."
+    },
+    {
+      "resource_id": "res_mongo_01",
+      "skill_id": "mongodb",
+      "title": "MongoDB Document Modeling & Aggregation Pipeline",
+      "provider": "SkillBridge Curated Baseline",
+      "resource_type": "course",
+      "difficulty": "intermediate",
+      "estimated_hours": 12.0,
+      "url": "https://learn.mongodb.com/",
+      "is_sample": true,
+      "description": "Schema design for high-velocity reads, sharding basics, and aggregation frameworks."
+    },
+    {
+      "resource_id": "res_ml_01",
+      "skill_id": "machine_learning",
+      "title": "Applied Machine Learning with Scikit-Learn & Cross-Validation",
+      "provider": "SkillBridge AI Track",
+      "resource_type": "course",
+      "difficulty": "intermediate",
+      "estimated_hours": 28.0,
+      "url": "https://scikit-learn.org/stable/tutorial/index.html",
+      "is_sample": true,
+      "description": "Supervised learning pipelines, feature engineering, metric selection, and model validation."
+    },
+    {
+      "resource_id": "res_pytorch_01",
+      "skill_id": "pytorch",
+      "title": "Deep Neural Networks and Representation Learning with PyTorch",
+      "provider": "SkillBridge Curated Baseline",
+      "resource_type": "course",
+      "difficulty": "advanced",
+      "estimated_hours": 35.0,
+      "url": "https://pytorch.org/tutorials/",
+      "is_sample": true,
+      "description": "Autograd computation graphs, CNNs, Transformers, and GPU training acceleration."
+    },
+    {
+      "resource_id": "res_rest_01",
+      "skill_id": "rest_api",
+      "title": "REST API Architecture, OpenAPI Specification & Idempotency",
+      "provider": "SkillBridge Web Track",
+      "resource_type": "documentation",
+      "difficulty": "intermediate",
+      "estimated_hours": 8.0,
+      "url": "https://restfulapi.net/",
+      "is_sample": true,
+      "description": "HTTP status codes, RESTful resource nesting, API versioning, and rate limiting patterns."
+    },
+    {
+      "resource_id": "res_test_01",
+      "skill_id": "testing_qa",
+      "title": "Test-Driven Development with Pytest & Mocking",
+      "provider": "SkillBridge Quality Engineering",
+      "resource_type": "project_tutorial",
+      "difficulty": "beginner",
+      "estimated_hours": 10.0,
+      "url": "https://docs.pytest.org/",
+      "is_sample": true,
+      "description": "Fixtures, parameterized tests, monkeypatching, and test coverage calculation."
+    },
+    {
+      "resource_id": "res_ts_01",
+      "skill_id": "typescript",
+      "title": "TypeScript in Depth: Generics, Utility Types & Type Narrowing",
+      "provider": "SkillBridge Curated Baseline",
+      "resource_type": "course",
+      "difficulty": "intermediate",
+      "estimated_hours": 15.0,
+      "url": "https://www.typescriptlang.org/docs/",
+      "is_sample": true,
+      "description": "Advanced static typing, conditional types, mapped types, and strict compiler configs."
+    },
+    {
+      "resource_id": "res_aws_01",
+      "skill_id": "aws",
+      "title": "AWS Cloud Foundations: Compute, Networking & IAM Security",
+      "provider": "SkillBridge Cloud Track",
+      "resource_type": "course",
+      "difficulty": "intermediate",
+      "estimated_hours": 22.0,
+      "url": "https://aws.amazon.com/training/",
+      "is_sample": true,
+      "description": "VPC architecture, EC2 auto-scaling, S3 security policies, and IAM least-privilege roles."
+    }
+  ]
+}
